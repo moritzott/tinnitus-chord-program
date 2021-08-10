@@ -1,4 +1,4 @@
-# Tinnitus-Chord-Program
+# Tinnitus Chord Program
 The Tinnitus Chord Program (tcp) forms a chord with a given tinnitus frequency.
 
 ## Abstract
