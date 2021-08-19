@@ -1,6 +1,8 @@
 # Tinnitus Chord Program
 The Tinnitus Chord Program (tcp) forms a chord with a given tinnitus frequency.
 
+![tcp-demo](./tcp-demo.png)
+
 ## Abstract
 *tcp* is a web application for masking chronic tonal tinnitus in the frequency range between 27 and 4200 Hz. The aim is to reduce the noisy tinnitus sound by considering the tinnitus as a musical tone. Based on the frequency of the tinnitus, one can create a tone scale and a chord, so that the tinnitus is part of a musical sound. Maybe this could reduce the noisy sound.
 
