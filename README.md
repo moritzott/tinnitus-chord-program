@@ -17,3 +17,6 @@ At the beginning of a program, the frequency must be evaluated to determine whet
 ## Limitations
 * The range of the tinnitus should be in the range of a piano (between 27 and 4200 Hz). It seems that a chord formed above a certain frequency is no longer perceived as a chord formation, but simply as a shrill sound. The same seems true if one selects a high tinnitus and plays a chord below (also in high range). That's why the range in this project is set to the range of the piano. It must be carefully evaluated the position (range) of the chord.
 * The *tcp* builds a chord with the tinnitus. Focussing on the tinnitus may lead to a more present tinnitus (-> that's a sign of contraindication).
+
+## Sate
+* in Development (not ready for productive mode)
